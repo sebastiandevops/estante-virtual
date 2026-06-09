@@ -2,5 +2,5 @@ Flask==2.3.3
 Flask-MySQL==1.5.2
 Flask-Cors==4.0.0
 python-dotenv==1.0.0
-mysql-connector-python==8.0.34
+mysql-connector-python==8.0.33
 Werkzeug==2.3.7
